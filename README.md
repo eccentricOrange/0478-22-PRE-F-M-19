@@ -1,6 +1,6 @@
 # 0478-22-PRE-F-M-19
 Solution of March 2019 pre-release material 22 for CAIE IGCSE Computer Science.
-This is the solution I created and does not follow from the mark scheme.
+This is the solution I created and it need not follow from the mark scheme.
 
 ## Important files
 * `Pre-release Material Development.pdf` provides a detailed documentation.
