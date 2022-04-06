@@ -3,7 +3,7 @@ Solution of March 2019 pre-release material 22 for CAIE IGCSE Computer Science.
 This is the solution I created and it need not follow from the mark scheme.
 
 ## Important files
-* `Pre-release Material Development.pdf` provides a detailed documentation.
+* `Pre-release Material Development.pdf` provides a detailed documentation **(start by looking at this)**.
 * `0478-22-PRE-F-M-19 Task 3 1-2-3 Pseudocode.psu` is the full pseudocode.
 * `0478-22-PRE-F-M-19 Task 3 1-2-3.py` is the full version of the Python 2.7 code.
 * `0478-22-PRE-F-M-19 IDEAL.py` is the short version of my program (probably not acceptable by CAIE).
